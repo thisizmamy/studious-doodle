@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(gallerybackground.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: lato;
+    text-align: justify;
+}
+
+.navbar-default {
+    font-size: 1.15em;
+}
+
+.jumbotron {
+    margin-top: 65px;
+}
+
+.googlemap {
+    outline: 1px solid grey;
+}

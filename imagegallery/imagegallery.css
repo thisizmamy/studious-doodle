@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(gallerybackground.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: lato;
+}
+
+.navbar-default {
+    font-size: 1.15em;
+}
+
+.element1 {
+    padding-top: 15px;
+}
+
+.jumbotron {
+    margin-top: 65px;
+}
