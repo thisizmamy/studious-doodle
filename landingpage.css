@@ -1,0 +1,41 @@
+#content {
+    color: black;
+    text-align: center;
+    margin-top: 25%;
+    padding: 12px;
+    padding-bottom: 25px;
+    background: rgba(107, 110, 108, 0.8);
+    border: 2px solid #2e2d2d;
+    border-radius: 25px;
+    text-shadow: 0px 4px 7px black;
+}
+
+html {
+    height: 100%;
+}
+
+hr {
+    width: 400px;
+}
+
+body {
+    background-image: url(landingbackground.jpg);
+    background-blend-mode: unset;
+    background-size: cover;
+    background-position: center;
+    font-family: lato;
+    color: white;
+}
+
+h1,h3{
+    color: white;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.navbar-default {
+    font-size: 1.15em;
+}
